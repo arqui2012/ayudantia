@@ -1,4 +1,6 @@
-ayudantia
+IIC2173 Arquitectura de Sistemas de Software
+
+Ayudantía 2
 =========
 
 Este proyecto es para probar Jenkins
